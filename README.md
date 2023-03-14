@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarah</h1>
-<h3 align="center">A Second Year Software Engineering student at Western University</h3>
+<h3 align="center">A Software Engineering student @ Western University</h3>
 
 - 🌱 I’m currently learning React and SQL
 - 📫 How to reach me **shuan392@uwo.ca**
@@ -7,7 +7,7 @@
 - ⚡ Fun fact **I am left handed!**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> https://www.linkedin.com/in/sarahhuang392/
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
